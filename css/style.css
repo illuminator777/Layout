@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #121116;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    color: #FFFFFF;
+    text-align: center;
+    height: 0;
+    padding: 50vh 0 50vh 0;
+}
+
+.blue {
+    color: #00C7FC;
+}
+.top {
+    font-size: 20px;
+}
+
+.cop {
+    font-size: 15px;
+}
+
+.icon i {
+    padding: 0 15px 0 15px;
+}
+
+.line {
+    border: none;
+    border-bottom: 1px solid;
+    margin: 15px auto 20px auto;
+    width: 230px;
+}
+
+.end {
+    padding: 20vh 0 0 0;
+}
